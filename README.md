@@ -1,10 +1,4 @@
-### Hey 👊
-
-
-
-I'm Mason, a Front-end Developer in Shanghai.
-
-![image](https://github-readme-stats.vercel.app/api?username=vipic&show_icons=true&theme=prussian&hide_title=true)
+[image](./luggage.png)
 
 
 <!--
