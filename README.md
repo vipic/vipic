@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/vipic/vipic/main/luggage.png)
+这个人很懒，什么也没有说。
 
 
 <!--
